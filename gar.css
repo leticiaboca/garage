@@ -1,0 +1,66 @@
+/* garage.scss   */
+/* Anjo Eijeriks */
+/* 11/04/2018    */
+h1 {
+  background-color: #f4fa88;
+  padding: 4px;
+  width: 685px;
+  margin: 0; }
+
+a {
+  color: black;
+  padding: 4px; }
+
+a.menu {
+  text-decoration: none; }
+
+li {
+  width: 150px;
+  background-color: white;
+  opacity: 0.6;
+  list-style-type: none; }
+
+ul {
+  margin-left: 0;
+  padding-left: 0; }
+
+li:hover {
+  background-color: #f4fa88;
+  font-weight: bold; }
+  
+table {
+  background-color: white;
+  opacity: 0.6;}
+
+body {
+  background-color: white; }
+
+.klantmenu {
+  float: left;
+  padding: 4px;
+  width: 223px; }
+
+.automenu {
+  float: left;
+  padding: 4px;
+  width: 223px; }
+
+.achtergrond {
+  content: "";
+  background: url("garage2.jpg");
+  opacity: 0.4;
+  width: 693px;  
+  height: 520px;
+  z-index: -1;
+  display: block;
+  position: absolute; }
+
+.voorgrond {
+  width: 693px;
+  height: 347px;
+  display: block;
+  position: relative;}
+  
+  
+
+/*# sourceMappingURL=gar.css.map */
